@@ -27,10 +27,12 @@ namespace ConsoleApp4
 
             invokacior.Caca1();
             invokacior.Caca2();
-            invokacior.testc = 1;
-            invokacior.Caca1("a");
+          
             Test();
             Test();
+
+            if (1 == 1)
+            { }
         }
 
         private void Test()
