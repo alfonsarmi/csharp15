@@ -35,6 +35,20 @@ namespace ConsoleApp4
             { }
         }
 
+        private void MethodGeniarNuevo2()
+        {
+            Class1 invokacior = new Class1();
+
+            invokacior.Caca1();
+            invokacior.Caca2();
+
+            Test();
+            Test();
+
+            if (1 == 1)
+            { }
+        }
+
         private void Test()
         { }
     }
