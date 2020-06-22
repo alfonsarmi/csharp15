@@ -25,7 +25,19 @@ namespace ConsoleApp4
 					if (a == 2)
 					{
 						//this is a test 2
-						var tv = 1;
+						var tv1 = 1;
+
+						if (a == 2)
+						{
+							//this is a test 2
+							var tv2 = 1;
+
+							if (a == 2)
+							{
+								//this is a test 2
+								var tv3= 1;
+							}
+						}
 					}
 				}
 				
